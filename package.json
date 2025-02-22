@@ -1,6 +1,6 @@
 {
-  "name": "util-test-types",
-  "version": "0.0.0",
+  "name": "terrestrial-util-types",
+  "version": "0.1.0",
   "type": "module",
   "description": "",
   "main": "dist/index.js",
@@ -32,9 +32,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "{{bugs}}"
+    "url": "https://github.com/AnastasiaAtTerrestrialOrigin/terrestrial-util-types/issues"
   },
-  "homepage": "{{homepage}}",
+  "homepage": "https://github.com/AnastasiaAtTerrestrialOrigin/terrestrial-util-types",
   "devDependencies": {
     "@eslint/js": "^9.20.0",
     "@types/jest": "^29.5.14",

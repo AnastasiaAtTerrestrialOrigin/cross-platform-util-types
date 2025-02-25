@@ -1,6 +1,6 @@
 {
   "name": "cross-platform-util-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Types used by cross-platform-util and shared across packages.",
   "main": "dist/index.js",
